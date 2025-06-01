@@ -16,11 +16,11 @@ To create a virtual environment for Gradio:
 
 ```bash
 python -m venv gradio_env
-
+```
 To activate environment
 ```bash
 gradio_env\Scripts\Activate
-
+```
 
 ## Usage
 
